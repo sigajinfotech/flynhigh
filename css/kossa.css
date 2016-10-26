@@ -1,0 +1,99 @@
+
+/*
+|------------------------------------------------------------------------------------
+| KOSSA css
+|------------------------------------------------------------------------------------
+*/
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic,900,900italic&subset=latin,latin-ext,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Cinzel|Halant:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700,900,300italic,400italic,700italic);
+/*font-family: 'Cinzel', serif;*/
+/*font-family: 'Halant', serif;*/
+/*font-family: 'Lato', sans-serif;*/
+/*font-family: 'Playfair Display', serif;*/
+@font-face {
+    font-family: 'AWConquerorDidot-Light';
+    src: url(font/AWConquerorDidot-Light.ttf);
+}
+@font-face {
+    font-family: 'Circular Pro Book';
+    src: url(font/circular-pro-book.ttf);
+}
+
+body{font-family: 'Circular Pro Book', sans-serif;}
+#filter li a{font-family: 'AWConquerorDidot-Light', serif;}
+h1, h2, h3, h4, h5, h6{font-family: 'AWConquerorDidot-Light', serif;}
+
+.portfolio-box-1 h6{font-family: 'Circular Pro Book', sans-serif;}
+
+.logo-wrap img, .footer-img img, .logo, ul.slimmenu li a:hover{border-bottom-style: none!important;}
+.footer-img img{
+  max-width:150px;
+}
+.footer-img{
+  text-align:center;
+}
+.section-header-text{
+  text-align:center;
+  padding-bottom : 25px;
+  padding-top:25px;
+}
+/*.portfolio-top.top-image-5{background-image: url('../images/bg/bg-01dark.jpg');}*/
+
+#education-page .cd-half-block{
+    background-size: inherit;
+}
+#education-page .cd-half-block.image-folio-1 {
+    background-image:url('../images/portfolio/3d/cut.png');
+}
+#education-page .cd-half-block.image-folio-1 + div {
+    padding-top: 100px;
+}
+#education-page .cd-half-block.image-folio-2 {
+    /*background-image:url('../images/portfolio/3d/2.jpg');*/
+}
+#education-page .cd-half-block.image-folio-3 {
+    background-image:url('../images/portfolio/3d/clarity.png');
+}
+#education-page .cd-half-block.image-folio-4 {
+    /*background-image:url('../images/portfolio/3d/4.jpg');*/
+}
+#education-page .cd-half-block.image-folio-5 {
+    background-size: 70px;
+    background-image:url('../images/portfolio/3d/color.png');
+}
+#education-page .cd-half-block.image-folio-6 {
+    /*background-image:url('../images/portfolio/3d/6.jpg');*/
+}
+#education-page .cd-half-block.image-folio-7 {
+    background-image:url('../images/portfolio/3d/carat.png');
+}
+#education-page .cd-half-block.image-folio-8 {
+    background-size: 90px;
+    background-image:url('../images/portfolio/3d/fluorescence.jpg');
+}
+
+#listing-page .hero-text h4{font-family: 'AWConquerorDidot-Light', serif; text-transform: uppercase; color: #610084; font-weight: bold;}
+#listing-page .hero-text .hero-subtext-2{font-size: 14px; font-family: 'Circular Pro Book', sans-serif; font-weight: normal;}
+
+.view-details{text-transform: uppercase; font-size: 16px; color: #959595; display: inline-block; padding: 5px 20px; border: 1px solid #959595;}
+.view-details:hover{color: #000;}
+.bg-gray img{background-size: cover;}
+.bg-gray{ text-align: center; background-color: #E9E9E9; padding: 190px 60px;}
+.bg-gray h1{color: #522889; font-size: 30px; font-weight: bold;}
+.bg-gray h3{font-size: 18px; font-weight: normal;}
+.bg-gray p{margin-bottom: 20px; font-size: 16px; color: #000;/*color: #bfb494;*/}
+.bg-white{background-color: #fff;}
+
+/*cd-primary-nav*/
+.cd-primary-nav{db-webkit-background-size: cover; background-size: cover; background-repeat: no-repeat;}
+
+
+
+/*category-page*/
+#category-page .curtain-text h5{font-family: 'AWConquerorDidot-Light', serif; text-transform: uppercase;
+    color: #610084;
+    font-weight: bold;     font-size: 26px;}
+#category-page .curtain-text p{font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal; color: #999;}
