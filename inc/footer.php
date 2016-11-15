@@ -33,6 +33,92 @@
         </div>
       </div>
     </div>
+    <div class="social-icon-wrapper">
+    	<style type="text/css">
+			.social-icon-wrapper{
+				width: 100%;
+			}
+			.socal_mda{
+			    display: inline-block;
+			    margin: 14px 0 0;
+			    text-align: center;
+			    width: 100%;
+			}
+			.socal_mda li {
+			    display: inline-block;
+			    margin: 0 5px;
+			}
+			.post-content a {
+			    color: #f77f08;
+			    float: none;
+			    font-weight: bold;
+			    text-align: left;
+			}
+			.social_icn, .nxt-prvs-icn {
+			    background: rgba(0, 0, 0, 0) url("images/social-icons.jpg") repeat scroll 0 0;
+			    display: inline-block;
+			    height: 125px;
+			    width: 114px;
+			}
+			.fb {
+			    background-position: -10px -8px;
+			}
+			.fb:hover{
+			    background-position: -10px -138px;
+			}
+			.gmil {
+			    background-position: -141px -8px;
+			}
+			.gmil:hover{
+			    background-position: -141px -139px;
+			}
+			.yelp {
+			    background-position: -270px -9px;
+			}
+			.yelp:hover{
+			    background-position: -270px -140px;
+			}
+			.trip-advisor {
+			    background-position: -401px -8px;
+			}
+			.trip-advisor:hover{
+			    background-position: -401px -140px;
+			}
+			.instagram {
+			    background-position: -535px -8px;
+			}
+			.instagram:hover{
+			    background-position: -535px -140px;
+			}
+		</style>
+    	<ul class="socal_mda">
+	    	<li>
+	    		<a href="#" target="_blank">
+	    			<span class="social_icn fb"></span>
+	    		</a>
+	    	</li>
+	    	<li>
+	    		<a href="#" target="_blank">
+	    			<span class="social_icn gmil"></span>
+	    		</a>
+	    	</li>
+	    	<li>
+	    		<a href="#" target="_blank">
+	    			<span class="social_icn yelp"></span>
+	    		</a>
+	    	</li>
+	    	<li>
+	    		<a href="#" target="_blank">
+	    			<span class="social_icn trip-advisor"></span>
+	    		</a>
+	    	</li>
+	    	<li>
+	    		<a href="#" target="_blank">
+	    			<span class="social_icn instagram"></span>
+	    		</a>
+	    	</li>
+	   	</ul>
+    </div>
     <!-- <div class="four columns"></div>  -->
     <div class="four columns">
       <p>&nbsp;</p>
@@ -56,8 +142,6 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script> 
-
-
 <script type="text/javascript" src="js/jquery.js"></script> 
 <script type="text/javascript" src="js/modernizr.custom.js"></script> 
 <!--script type="text/javascript" src="js/royal_preloader.min.js"></script>
@@ -73,21 +157,22 @@
 <script type="text/javascript" src="js/scroll.js"></script> 
 <script type="text/javascript" src="js/menu.js"></script> 
 <!--script type="text/javascript" src="js/zoom.js"></script!--> 
-<!--<script type="text/javascript" src="js/retina-1.1.0.min.js"></script>-->
-<script type="text/javascript" src="js/jquery.easing.js"></script> 
+<!-- <script type="text/javascript" src="js/retina-1.1.0.min.js"></script> -->
+<!-- <script type="text/javascript" src="js/jquery.easing.js"></script> -->
+<script type="text/javascript" src="js/jquery.easing.min.js"></script> 
 <script type="text/javascript" src="js/jquery.fs.tipper.min.js"></script> 
 <script type="text/javascript" src="js/jquery.flexslider-min.js"></script> 
 <script type="text/javascript" src="js/owl.carousel.min.js"></script> 
 <script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script> 
 <script type="text/javascript" src="js/masonry.js"></script> 
 <script type="text/javascript" src="js/isotope.js"></script> 
-<script type="text/javascript" src="js/portfolio-custom.js"></script> 
+<!-- <script type="text/javascript" src="js/portfolio-custom.js"></script> -->
+<script type="text/javascript" src="js/portfolio-custom.min.js"></script> 
 <script type="text/javascript" src="js/kossa.js"></script> 
 <script type="text/javascript" src="js/jquery.fancybox.pack.js"></script> 
-<script type="text/javascript" src="js/masterslider.min.js"></script> 
-<!-- jsDeliver -->
-<!-- <script type="text/javascript" src="js/jquery.lazyload.min.js"></script> -->
+<script type="text/javascript" src="js/masterslider.min.js"></script>
 <script type="text/javascript" src="js/jquery.unveil.js"></script>
+<script type="text/javascript" src="js/jquery.mobile-1.4.5.js"></script>
 <script type="text/javascript">      
  
     var slider = new MasterSlider();
@@ -106,9 +191,15 @@
     });
 </script> 
 <script type="text/javascript">
-	$(window).load(function(){
+$(function() {
+    $("li img.lazy").unveil(300);
+});
+</script>
+<script type="text/javascript">
+	
+    $(window).load(function(){
       $('.flexslider').flexslider({
-				slideshow: false,
+		slideshow: false,
         animation: "slide",
         start: function(slider){
           $('body').removeClass('loading');
@@ -119,8 +210,6 @@
 <script type="text/javascript">
 	$(document).ready(function() {
 		$("body").show();
-        //$("img.lazy").lazyload();
-        $("img").unveil();
 	});
 </script> 
 <script type="text/javascript">
@@ -280,7 +369,69 @@ $(window).load(function() {
 	});
 </script> 
 <!-- Go to www.addthis.com/dashboard to customize your tools --> 
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57c9e2371a7c08b0"></script> 
+<!--<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57c9e2371a7c08b0"></script> -->
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-581aa76010443dba"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(document).on('mouseover', 'section.slider' ,function(){
+			var position = $(this).offset();
+			$('#at-image-sharing-tool').css(position);
+		});
+		$(document).on('mousemove', 'section.slider .flexslider ul li img.lazy' ,function(){
+			var position = $(this).parent().parent().parent().parent().parent().offset();
+			$('#at-image-sharing-tool').css(position);
+		});
+		$(document).on('mousemove', 'section.slider .flexslider ol li' ,function(){
+			var position = $(this).parent().parent().parent().offset();
+			$('#at-image-sharing-tool').css(position);
+		});
+		$(document).on('mousemove', 'section.slider' ,function(){
+			var position = $(this).offset();
+			$('#at-image-sharing-tool').css(position);
+		});
+		jQuery('section.slider .flexslider ul li img.lazy').on('tap', function(){
+			var position = $(this).parent().parent().parent().offset();
+			$('#at-image-sharing-tool').css(position);
+			$('span.at-image-sharing-mobile-icon').addClass('at4-hide');
+			$('#at-image-sharing-tool').removeClass('at4-hide');
+			$('#at-image-sharing-tool').addClass('at4-show');
+		});
+		/*jQuery('body').on('tap', function(){
+			if(!$(this).hasClass('.slider') || !$(this).hasClass('.flexslider') || !$(this).hasClass('.lazy'))
+			{
+				$('span.at-image-sharing-mobile-icon').removeClass('at4-hide');
+				$('#at-image-sharing-tool').addClass('at4-hide');
+				$('#at-image-sharing-tool').removeClass('at4-show');
+			}
+		});*/
+	});
+</script>
+<!--
+<style type="text/css">
+	.socal_mda .social_icn{
+		background: url('images/image-share-icons.png');
+		width: 48px;
+		height: 48px;
+		background-position: 0px 0px;
+		border-radius: 100%;
+	}
+	.socal_mda .social_icn.fb{
+		background-position: -48px 0;
+	}
+	.socal_mda .social_icn.fb:hover{
+		background-position: -48px 48px;
+	}
+	.socal_mda .social_icn.google-plus{
+		background-position: -96px 0;
+	}
+	.socal_mda .social_icn.google-plus:hover{
+		background-position: -96px 48px;
+	}
+</style>
+-->
 
 <!-- End Document
 ================================================== -->

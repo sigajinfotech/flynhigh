@@ -1,3 +1,42 @@
+<?php
+$social_image_share_html = '<ul class="socal_mda">
+  <li>
+    <a href="http://www.facebook.com/share.php?u=http://blog.origzo.com/2016-predictions-how-the-app-market-will-move/&amp;title=2016 Predictions: How The App Market will Move?" target="_blank">
+      <span class="social_icn fb"></span>
+    </a>
+  </li>
+  <li>
+    <a href="mailto:?subject=I wanted to share this post with you from Origzo Blog&amp;body=2016%20Predictions%3A%20How%20The%20App%20Market%20will%20Move%3F  http://blog.origzo.com/2016-predictions-how-the-app-market-will-move/" title="Email to a friend/colleague" target="_blank">
+      <span class="social_icn mms"></span>
+    </a>
+  </li>
+  <li>
+    <a href="https://plus.google.com/share?url=http://blog.origzo.com/2016-predictions-how-the-app-market-will-move/" target="_blank">
+      <span class="social_icn gmil"></span>
+    </a>
+  </li>
+  <li>
+    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://blog.origzo.com/2016-predictions-how-the-app-market-will-move/&amp;title=2016+Predictions%3A+How+The+App+Market+will+Move%3F" target="_blank">
+      <span class="social_icn lnin"></span>
+    </a>
+  </li>
+  <!-- 
+  <li>
+    <a href="http://pinterest.com/pin/create/button/?url=http://blog.origzo.com/2016-predictions-how-the-app-market-will-move/&media=http%3A%2F%2Fblog.origzo.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fapp-predictions-2016.jpg&description=2016+Predictions%3A+How+The+App+Market+will+Move%3F" target="_blank">
+      <span class="social_icn pss"></span>
+    </a>
+  </li>
+  <li>
+    <a href=""><span class="social_icn ntwrk"></span></a>
+  </li>
+  -->
+  <li>
+    <a href="http://twitter.com/home?status=2016+Predictions%3A+How+The+App+Market+will+Move%3F+http://blog.origzo.com/2016-predictions-how-the-app-market-will-move/" target="_blank">
+      <span class="social_icn twtr"></span>
+    </a>
+  </li>
+</ul>';
+?>
 <!DOCTYPE html>
 <!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]>
@@ -15,7 +54,7 @@
 <!-- Mobile Specific Metas
   ================================================== -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link href='css/min.css' rel='stylesheet' type='text/css'>
+<link href='css/min-minify.css' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="css/fancybox/jquery.fancybox.css">
 
 <!-- Favicons

@@ -62,7 +62,7 @@
 								&nbsp;
 							</div>
 							<div class="six columns story-img-box">
-								<img src="images/story1.jpg" class="img-responsive">
+								<img src="images/story1.jpg" class="lazy img-responsive">
 							</div>
 							<div class="one columns">
 								&nbsp;
@@ -83,7 +83,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n1.jpg" alt="Alba Pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n1.jpg" alt="Alba Pendant" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -95,7 +95,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n2.jpg" alt="BezelPendant 14k yellow gold" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n2.jpg" alt="BezelPendant 14k yellow gold" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -107,7 +107,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n3.jpg" alt="Bow Pendant" class="img-responsive"/>
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n3.jpg" alt="Bow Pendant" class="lazy img-responsive"/>
 																	</li>
 																</ul>
 															</div>
@@ -119,7 +119,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n4.jpg" alt="Butterfly pendant 14k White Gold" class="img-responsive"/>
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n4.jpg" alt="Butterfly pendant 14k White Gold" class="lazy img-responsive"/>
 																	</li>
 																</ul>
 															</div>
@@ -131,7 +131,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n5.jpg" alt="Cluster Pendant 14K Rose Gold"  class="img-responsive"/>   
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n5.jpg" alt="Cluster Pendant 14K Rose Gold"  class="lazy img-responsive"/>   
 																	</li>
 																</ul>
 															</div>
@@ -143,7 +143,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n6.jpg" alt="Droplet Pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n6.jpg" alt="Droplet Pendant" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -155,7 +155,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n7.jpg" alt="Fancy infinity diamond pendant with bar chain" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n7.jpg" alt="Fancy infinity diamond pendant with bar chain" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -167,7 +167,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n8.jpg" alt="Fiore Pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n8.jpg" alt="Fiore Pendant" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -179,7 +179,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n9.jpg" alt="Five Diamond Bezel Pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n9.jpg" alt="Five Diamond Bezel Pendant" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -191,7 +191,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n10.jpg" alt="Hand Pave heart pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n10.jpg" alt="Hand Pave heart pendant" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -203,7 +203,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n11.jpg" alt="Pear shape pave" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n11.jpg" alt="Pear shape pave" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -215,7 +215,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n12.jpg" alt="Round Brilliant Droplet Pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n12.jpg" alt="Round Brilliant Droplet Pendant" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -227,7 +227,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n13.jpg" alt="Solitare Pendant 14K White Gold" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n13.jpg" alt="Solitare Pendant 14K White Gold" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -239,7 +239,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n14.jpg" alt="Three Heart Pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n14.jpg" alt="Three Heart Pendant" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -251,10 +251,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n15.jpg" alt="Fleur pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n15.jpg" alt="Fleur pendant" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/necklaces/images/n15.2.jpg" alt="Fleur pendant" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n15.2.jpg" alt="Fleur pendant" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -266,10 +266,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n16.jpg" alt="Forever Brillant Neckalce" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n16.jpg" alt="Forever Brillant Neckalce" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/necklaces/images/n16.2.jpg" alt="Forever Brillant Neckalce" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n16.2.jpg" alt="Forever Brillant Neckalce" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -281,10 +281,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n17.jpg" alt="Infini Brillant necklace" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n17.jpg" alt="Infini Brillant necklace" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/necklaces/images/n17.2.jpg" alt="Infini Brillant necklace" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n17.2.jpg" alt="Infini Brillant necklace" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -296,10 +296,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n18.jpg" alt="Reine Necklace" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n18.jpg" alt="Reine Necklace" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/necklaces/images/n18.2.jpg" alt="Reine Necklace" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n18.2.jpg" alt="Reine Necklace" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -311,10 +311,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n19.jpg" alt="Tennis Necklace" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n19.jpg" alt="Tennis Necklace" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/necklaces/images/n19.2.jpg" alt="Tennis Necklace" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n19.2.jpg" alt="Tennis Necklace" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -326,10 +326,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n20.jpg" alt="Tennis Necklace II" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n20.jpg" alt="Tennis Necklace II" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/necklaces/images/n20.2.jpg" alt="Tennis Necklace II" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n20.2.jpg" alt="Tennis Necklace II" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -341,10 +341,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/necklaces/images/n21.jpg" alt="Unknown" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n21.jpg" alt="Unknown" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/necklaces/images/n21.2.jpg" alt="Unknown" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/necklaces/images/n21.2.jpg" alt="Unknown" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>

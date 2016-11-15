@@ -48,7 +48,7 @@
         </div>
       </div>
       <div class="one columns"> &nbsp; </div>
-      <div class="six columns story-img-box"> <img src="images/bands.jpg" class="img-responsive"> </div>
+      <div class="six columns story-img-box"> <img src="images/bands.jpg" class="lazy img-responsive"> </div>
       <div class="one columns"> &nbsp; </div>
     </div>
     <div class="container" id=""> 
@@ -63,9 +63,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb1.jpg" alt="U Setting" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb1.2.jpg" alt="U Setting" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb1.3.jpg" alt="U Setting" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb1.jpg" alt="U Setting" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb1.2.jpg" alt="U Setting" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb1.3.jpg" alt="U Setting" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -75,9 +75,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb2.jpg" alt="Love Forever Gradual" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb2.2.jpg" alt="Love Forever Gradual" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb2.3.jpg" alt="Love Forever Gradual" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb2.jpg" alt="Love Forever Gradual" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb2.2.jpg" alt="Love Forever Gradual" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb2.3.jpg" alt="Love Forever Gradual" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -87,9 +87,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li class="flex-active-slide"> <img src="categories/wedding-bands/images/wb3.jpg" alt="Love Forever Crown 5D" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb3.2.jpg" alt="Love Forever Crown 5D" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb3.3.jpg" alt="Love Forever Crown 5D" class="img-responsive"/> </li>
+                  <li class="flex-active-slide"> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb3.jpg" alt="Love Forever Crown 5D" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb3.2.jpg" alt="Love Forever Crown 5D" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb3.3.jpg" alt="Love Forever Crown 5D" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -99,8 +99,8 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb4.jpg" alt="Love Forever Eternity Crown" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb4.2.jpg" alt="Love Forever Eternity Crown" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb4.jpg" alt="Love Forever Eternity Crown" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb4.2.jpg" alt="Love Forever Eternity Crown" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -110,9 +110,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb5.jpg" alt="Love Forever Flat Set"  class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb5.2.jpg" alt="Love Forever Flat Set"  class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb5.3.jpg" alt="Love Forever Flat Set"  class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb5.jpg" alt="Love Forever Flat Set"  class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb5.2.jpg" alt="Love Forever Flat Set"  class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb5.3.jpg" alt="Love Forever Flat Set"  class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -122,9 +122,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb6.jpg" alt="Love Forever" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb6.2.jpg" alt="Love Forever" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb6.3.jpg" alt="Love Forever" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb6.jpg" alt="Love Forever" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb6.2.jpg" alt="Love Forever" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb6.3.jpg" alt="Love Forever" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -134,9 +134,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb7.jpg" alt="Love Forever 3 Quarter" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb7.2.jpg" alt="Love Forever 3 Quarter" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb7.3.jpg" alt="Love Forever 3 Quarter" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb7.jpg" alt="Love Forever 3 Quarter" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb7.2.jpg" alt="Love Forever 3 Quarter" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb7.3.jpg" alt="Love Forever 3 Quarter" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -146,9 +146,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb8.jpg" alt="Air Shared Prong" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb8.2.jpg" alt="Air Shared Prong" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb8.3.jpg" alt="Air Shared Prong" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb8.jpg" alt="Air Shared Prong" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb8.2.jpg" alt="Air Shared Prong" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb8.3.jpg" alt="Air Shared Prong" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -158,9 +158,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb9.jpg" alt="Love Forever Half Round" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb9.2.jpg" alt="Love Forever Half Round" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb9.3.jpg" alt="Love Forever Half Round" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb9.jpg" alt="Love Forever Half Round" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb9.2.jpg" alt="Love Forever Half Round" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb9.3.jpg" alt="Love Forever Half Round" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -170,9 +170,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb10.jpg" alt="Love Forever 3 Quarter Pink" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb10.2.jpg" alt="Love Forever 3 Quarter Pink" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb10.3.jpg" alt="Love Forever 3 Quarter Pink" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb10.jpg" alt="Love Forever 3 Quarter Pink" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb10.2.jpg" alt="Love Forever 3 Quarter Pink" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb10.3.jpg" alt="Love Forever 3 Quarter Pink" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -182,9 +182,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb11.jpg" alt="Six Leaves Pink" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb11.2.jpg" alt="Six Leaves Pink" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb11.3.jpg" alt="Six Leaves Pink" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb11.jpg" alt="Six Leaves Pink" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb11.2.jpg" alt="Six Leaves Pink" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb11.3.jpg" alt="Six Leaves Pink" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -194,9 +194,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb12.jpg" alt="Love Eternity Leaves" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb12.2.jpg" alt="Love Eternity Leaves" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb12.3.jpg" alt="Love Eternity Leaves" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb12.jpg" alt="Love Eternity Leaves" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb12.2.jpg" alt="Love Eternity Leaves" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb12.3.jpg" alt="Love Eternity Leaves" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -206,9 +206,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb13.jpg" alt="Love I Channel" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb13.2.jpg" alt="Love I Channel" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb13.3.jpg" alt="Love I Channel" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb13.jpg" alt="Love I Channel" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb13.2.jpg" alt="Love I Channel" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb13.3.jpg" alt="Love I Channel" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -218,9 +218,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb14.jpg" alt="Love II 3mm" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb14.2.jpg" alt="Love II 3mm" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb14.3.jpg" alt="Love II 3mm" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb14.jpg" alt="Love II 3mm" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb14.2.jpg" alt="Love II 3mm" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb14.3.jpg" alt="Love II 3mm" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -230,9 +230,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb15.jpg" alt="Love II Sapphire and Diamond" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb15.2.jpg" alt="Love II Sapphire and Diamond" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb15.3.jpg" alt="Love II Sapphire and Diamond" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb15.jpg" alt="Love II Sapphire and Diamond" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb15.2.jpg" alt="Love II Sapphire and Diamond" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb15.3.jpg" alt="Love II Sapphire and Diamond" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -242,9 +242,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb16.jpg" alt="Love II 14K Yellow Gold" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb16.2.jpg" alt="Love II 14K Yellow Gold" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb16.3.jpg" alt="Love II 14K Yellow Gold" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb16.jpg" alt="Love II 14K Yellow Gold" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb16.2.jpg" alt="Love II 14K Yellow Gold" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb16.3.jpg" alt="Love II 14K Yellow Gold" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -254,9 +254,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb17.jpg" alt="Love II 2mm" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb17.2.jpg" alt="Love II 2mm" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb17.3.jpg" alt="Love II 2mm" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb17.jpg" alt="Love II 2mm" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb17.2.jpg" alt="Love II 2mm" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb17.3.jpg" alt="Love II 2mm" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -266,9 +266,9 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb18.jpg" alt="Love II 14K Rose Gold" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb18.2.jpg" alt="Love II 14K Rose Gold" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb18.3.jpg" alt="Love II 14K Rose Gold" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb18.jpg" alt="Love II 14K Rose Gold" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb18.2.jpg" alt="Love II 14K Rose Gold" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb18.3.jpg" alt="Love II 14K Rose Gold" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
@@ -278,8 +278,8 @@
             <section class="slider">
               <div class="flexslider">
                 <ul class="slides">
-                  <li> <img src="categories/wedding-bands/images/wb19.jpg" alt="Cocktail Wide Band" class="img-responsive"/> </li>
-                  <li> <img src="categories/wedding-bands/images/wb19.2.jpg" alt="Cocktail Wide Band" class="img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb19.jpg" alt="Cocktail Wide Band" class="lazy img-responsive"/> </li>
+                  <li> <img src="images/loading-2.gif" data-src="categories/wedding-bands/images/wb19.2.jpg" alt="Cocktail Wide Band" class="lazy img-responsive"/> </li>
                 </ul>
               </div>
             </section>
