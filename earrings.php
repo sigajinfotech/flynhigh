@@ -62,7 +62,7 @@
 								&nbsp;
 							</div>
 							<div class="six columns story-img-box">
-								<img src="images/story1.jpg" class="img-responsive">
+								<img src="images/category/category_earrings.jpg" class="lazy img-responsive">
 							</div>
 							<div class="one columns">
 								&nbsp;
@@ -83,7 +83,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e1.jpg" alt="Cluster Earrings" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e1.jpg" alt="Cluster Earrings" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -95,7 +95,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e2.jpg" alt="Cocktail Flower Earrings" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e2.jpg" alt="Cocktail Flower Earrings" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -107,7 +107,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e3.jpg" alt="Cushion Halo Earring" class="img-responsive"/>
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e3.jpg" alt="Cushion Halo Earring" class="lazy img-responsive"/>
 																	</li>
 																</ul>
 															</div>
@@ -119,7 +119,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e4.jpg" alt="Diamond Hoop Earrings" class="img-responsive"/>
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e4.jpg" alt="Diamond Hoop Earrings" class="lazy img-responsive"/>
 																	</li>
 																</ul>
 															</div>
@@ -131,7 +131,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e5.jpg" alt="Diamond Stud Earrings"  class="img-responsive"/>   
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e5.jpg" alt="Diamond Stud Earrings"  class="lazy img-responsive"/>   
 																	</li>
 																</ul>
 															</div>
@@ -143,7 +143,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e6.jpg" alt="Drop Diamond Earrings" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e6.jpg" alt="Drop Diamond Earrings" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -155,7 +155,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e7.jpg" alt="Droplet Pave" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e7.jpg" alt="Droplet Pave" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -167,7 +167,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e8.jpg" alt="Fleur Earrings 14k Yellow Gold" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e8.jpg" alt="Fleur Earrings 14k Yellow Gold" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -179,7 +179,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e9.jpg" alt="Halo Earring" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e9.jpg" alt="Halo Earring" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -191,7 +191,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e10.jpg" alt="Jacket Halo Earrings" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e10.jpg" alt="Jacket Halo Earrings" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -203,7 +203,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e11.jpg" alt="Madison Drop Earring" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e11.jpg" alt="Madison Drop Earring" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -215,7 +215,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e12.jpg" alt="Pave Oval Earrings 14k Rose Gold" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e12.jpg" alt="Pave Oval Earrings 14k Rose Gold" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -227,7 +227,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e13.jpg" alt="Pear Droplet 14k Rose gold" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e13.jpg" alt="Pear Droplet 14k Rose gold" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -239,7 +239,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e14.jpg" alt="Round Halo Two Tone" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e14.jpg" alt="Round Halo Two Tone" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -251,7 +251,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e15.jpg" alt="Three Prong Stud Earrings " class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e15.jpg" alt="Three Prong Stud Earrings " class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -263,7 +263,7 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/earrings/images/e16.jpg" alt="Three Prong Stud Earrings 14k yellow gold" class="img-responsive"/> 
+																		<img src="images/loading-2.gif" data-src="categories/earrings/images/e16.jpg" alt="Three Prong Stud Earrings 14k yellow gold" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -275,10 +275,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/wedding-bands/images/17.jpg" alt="Love II 2mm" class="img-responsive"/> 
+																		<img src="categories/wedding-bands/images/17.jpg" alt="Love II 2mm" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/wedding-bands/images/17.3.jpg" alt="Love II 2mm" class="img-responsive"/> 
+																		<img src="categories/wedding-bands/images/17.3.jpg" alt="Love II 2mm" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>
@@ -290,10 +290,10 @@
 															<div class="flexslider">
 																<ul class="slides">
 																	<li>
-																		<img src="categories/wedding-bands/images/18.jpg" alt="Love II 14K Rose Gold" class="img-responsive"/> 
+																		<img src="categories/wedding-bands/images/18.jpg" alt="Love II 14K Rose Gold" class="lazy img-responsive"/> 
 																	</li>
 																	<li>
-																		<img src="categories/wedding-bands/images/18.3.jpg" alt="Love II 14K Rose Gold" class="img-responsive"/> 
+																		<img src="categories/wedding-bands/images/18.3.jpg" alt="Love II 14K Rose Gold" class="lazy img-responsive"/> 
 																	</li>
 																</ul>
 															</div>

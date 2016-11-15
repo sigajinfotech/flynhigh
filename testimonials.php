@@ -82,27 +82,29 @@
                         </div> -->
       <div class="container">
         <div class="one nmb nmt columns"> &nbsp; </div>
-        <div class="seven nmb nmt columns cat img-box pick-height apply-height 2 left-box height1050 spacet25" style="background-color:#ebeaea;"> <img src="images/testimonials/testi1.jpg" class="img-responsive"> </div>
+        <div class="seven nmb nmt columns cat img-box pick-height apply-height 2 left-box height1050 spacet25" style="background-color:#ebeaea;"> <img src="images/testimonials/testi5.jpg" class="img-responsive"> </div>
         <!--<div class="one columns">
 								&nbsp;
 							</div>-->
         <div class="seven nmb nmt columns gray cat text-box apply-height right-box height1050" style="">
           <div>
             <div class="section-header-text" style="padding:25px;">
-              <p>What can be said about Jangmi that hasn&#39;t already been said in all of the other five star reviews? ...
-                
-                I came in with my now fiancée to look at different diamond shapes and sizes and different settings.
-                
-                There were certain aspects we liked and disliked. I then came in again by myself to buy the ring. ...
-                
-                A few weeks later the ring was ready and it was absolutely beautiful, so incredibly sparkly and
-                
-                gorgeous. Everyone who now looks at the ring on my fiancée&#39;s finger raves about how beautiful it is.
-                
-                Go here if you want the easiest most stress free experience and the best product at the right price.</p>
+              <p>I never once felt rushed or "sold." They encouraged me to look around at other jewelers.
+                They did so because their diamonds are immaculate. I went to see them 4 or 5 times before finding "the one"
+                and they always remembered my name and greeted me with a genuine smile.
+
+                I can say they steered me right. The ring is gorgeous, my fiancé said yes,
+                and she pops in every couple of weeks to get the ring steamed.
+
+                In a moment and event where it means so much and costs just as much,
+                I felt fortunate to find a loving couple with so much industry knowledge and experience
+                that cared about what was best for me.
+
+                I highly recommend anyone to check them out.
+              </p>
               <br/>
-              <h5>Ben F.</h5>
-              <h6>Jersey City, NJ</h6>
+              <h5>Pete C.</h5>
+              <h6>New York, NY</h6>
               <div class="line-header"></div>
             </div>
             <div class="services-list"> </div>

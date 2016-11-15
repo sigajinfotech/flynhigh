@@ -62,7 +62,7 @@
 								&nbsp;
 							</div>
 							<div class="six columns story-img-box">
-								<img src="images/story1.jpg" class="lazy img-responsive">
+								<img src="images/category/category_necklaces.jpg" class="lazy img-responsive">
 							</div>
 							<div class="one columns">
 								&nbsp;
